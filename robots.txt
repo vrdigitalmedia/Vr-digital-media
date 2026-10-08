@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://vrdigitalmedia.github.io/Vr-digital-media/sitemap.xml
